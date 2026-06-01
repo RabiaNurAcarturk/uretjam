@@ -16,3 +16,15 @@ Projeyi lokal ortamınızda çalıştırmak için aşağıdaki adımları izleye
 1. Bağımlılıkları yükleyin:
 ```bash
    `npm install`
+
+
+### öRNEK Film Prodüksiyon Dosyası Ekran Görüntüleri
+Film Fikri Geliştirme Promptu Verme Aşaması
+
+<img width="1202" height="626" alt="Ekran Resmi 2026-06-01 12 36 04" src="https://github.com/user-attachments/assets/baed69d7-a1f6-4e6e-9156-a40ab6de1ac3" />
+
+Senaryo Dosyası
+<img width="498" height="679" alt="Ekran Resmi 2026-06-01 12 13 49" src="https://github.com/user-attachments/assets/dcd57457-3037-40fc-8951-cca7d1f13579" />
+
+
+
