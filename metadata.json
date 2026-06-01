@@ -1,0 +1,6 @@
+{
+  "name": "CineAgent",
+  "description": "Professional film production guide generator specializing in screenwriting, editing, art direction, and cinematography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
