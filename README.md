@@ -5,7 +5,7 @@ CineAgent, sinemacıların ve animatörlerin zihnindeki ham fikirleri, adım ad�
 ### öRNEK Film Prodüksiyon Dosyası Ekran Görüntüleri
 Film Fikri Geliştirme Promptu Verme Aşaması
 
-<img width="709" height="626" alt="Ekran Resmi 2026-06-01 12 36 04" src="https://github.com/user-attachments/assets/baed69d7-a1f6-4e6e-9156-a40ab6de1ac3" />
+<img width="709" height="550" alt="Ekran Resmi 2026-06-01 12 36 04" src="https://github.com/user-attachments/assets/baed69d7-a1f6-4e6e-9156-a40ab6de1ac3" />
 
 SENARYO DOSYASI
 
