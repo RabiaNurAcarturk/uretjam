@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎬 CineAgent - Üretjam Hackathon Projesi
 
-# Run and deploy your AI Studio app
+CineAgent, sinemacıların ve animatörlerin zihnindeki ham fikirleri, adım adım detaylı bir prodüksiyon dosyasına dönüştüren yapay zeka destekli bir yol arkadaşıdır. 
 
-This contains everything you need to run your app locally.
+## 🚀 Teknolojik Altyapı
+* **Frontend:** React, TypeScript, Vite, Lucide-React (Açık Kaynak)
+* **AI Engine (Planlanan):** DeepSeek (Açık Kaynak)
+* **Durum:** Bu depo, Üretjam 48 saatlik hackathonu kapsamında geliştirilen UI/UX ve ajan etkileşim akışı prototipini içermektedir.
 
-View your app in AI Studio: https://ai.studio/apps/57eb8539-9e77-4f6a-b1de-bbe8df8ca6e1
+## 🧠 Felsefemiz
+Aşk, Vatan ve Ölüm temalarını merkeze alan CineAgent; kullanıcıyı soru yağmuruna tutmak yerine, yönetmenin gözden kaçırabileceği teknik detayları, görsel ve işitsel estetiği fark edip kendi önerileriyle tamamlar. Etik ilkelerden (müstehcenlik yasağı vb.) taviz vermeyen, sanatçı dostu bir üretim ortağıdır.
 
-## Run Locally
+## 💻 Kurulum ve Çalıştırma (Lokal)
+Projeyi lokal ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+1. Bağımlılıkları yükleyin:
+```bash
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
